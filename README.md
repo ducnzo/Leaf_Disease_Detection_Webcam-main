@@ -41,11 +41,11 @@ Tìm kiếm "Python". Bấm Install để cài đặt
 ## Bước 4: Tải file main.py về máy
 Bấm vào main.py
 
-![Alt text](image\image123123.png)
+![Alt text](image/image123123.png)
 
 Chọn Download Raw file
 
-![Alt text](image\image-111111.png)
+![Alt text](image/image-111111.png)
 
 ## Bước 5: Mở file main.py bằng Visual Studio Code
 
