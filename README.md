@@ -39,8 +39,17 @@ Tìm kiếm "Python". Bấm Install để cài đặt
 **Note**: Visual Studio code có thể yêu cầu thoát ra và vào lại.
 
 ## Bước 4: Tải file main.py về máy
+Bấm vào main.py
+
+![Alt text](image\image123123.png)
+
+Chọn Download Raw file
+
+![Alt text](image\image-111111.png)
 
 ## Bước 5: Mở file main.py bằng Visual Studio Code
+
+File -> Open File. Dẫn đến vị trí file main.py vừa được tải về -> Chọn Open
 
 ## Bước 4: Cài đặt các package và thư viện
 
