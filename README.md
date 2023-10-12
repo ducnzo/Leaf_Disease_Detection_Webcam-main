@@ -55,9 +55,9 @@ File -> Open File. Dẫn đến vị trí file main.py vừa được tải về
 
 Trên thanh tác vụ của Visual Studio Code, chọn Terminal -> New Terminal
 
-Copy lệnh dưới và dán vào cửa sổ terminal. Ấn Enter.
-
 ![Alt text](image/image-4.png)
+
+Copy lệnh dưới và dán vào cửa sổ terminal. Ấn Enter.
 
 Cài đặt Tensorflow
 
