@@ -48,19 +48,20 @@ Tiếp tục tìm kiếm Code Runner (biểu tượng cam) và cài tương tự
 
 Trên thanh tìm kiếm của Windows, tìm "cmd" để mở lên Command Prompt
 
+Copy lệnh dưới và dán vào cửa sổ cmd. Ấn Enter.
 
+Cài đặt Tensorflow
 
 ```bash
-wget https://developer.download.nvidia.com/compute/cuda/11.8.0/local_installers/cuda_11.8.0_520.61.05_linux.run
+pip install tensorflow
+```
+
+Tiếp tục copy code dưới đây dán vào cmd để cài đặt OpenCV
+
+```bash
+pip install opencv-python
 ```
 
 ## Bước 6: Mở file code bằng Visual Studio Code
 
-
-
-#### Addition
-If your system existed NVIDIA driver Xrog, you need to disable to install new driver from CUDA toolkit installation. Follow [link](https://docs.nvidia.com/ai-enterprise/deployment-guide-vmware/0.1.0/nouveau.html)
-
-
-> **Note**: To remove completely CUDA toolkit: 
 
