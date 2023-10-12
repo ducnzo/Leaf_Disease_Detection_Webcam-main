@@ -77,6 +77,7 @@ Cuối cùng copy code dưới đây dán vào terminal ấn Enter để run
 python main.py
 ```
 
+Bấm nút "Q" để thoát.
 
 **Tận hưởng thành quả nào !!!!**
 
