@@ -26,7 +26,7 @@ Sau đó bấm Install Now.
 Chờ cài đặt và bấm Close
 
 ![Alt text](image.png)
-## Bước 3: Cài đặt Python and Code Runner trong Visual Studio Code
+## Bước 3: Cài đặt Python trong Visual Studio Code
 
 Mở Visual Studio Code lên. Nhìn sang thanh công cụ bên trái chọn Extension (biểu tượng 4 hình vuông). (Hoặc bấm Ctrl + Shift + X)
 
@@ -38,13 +38,7 @@ Tìm kiếm "Python". Bấm Install để cài đặt
 
 **Note**: Visual Studio code có thể yêu cầu thoát ra và vào lại.
 
-Tiếp tục tìm kiếm Code Runner (biểu tượng cam) và cài tương tự
-
-![Alt text](image-4.png)
-
-## Bước 4: Tải code về 
-
-## Bước 5: Cài đặt các package và thư viện
+## Bước 4: Cài đặt các package và thư viện
 
 Trên thanh tìm kiếm của Windows, tìm "cmd" để mở lên Command Prompt
 
@@ -61,6 +55,8 @@ Tiếp tục copy code dưới đây dán vào cmd để cài đặt OpenCV
 ```bash
 pip install opencv-python
 ```
+## Bước 5: Tải file main.py về máy
+
 
 ## Bước 6: Mở file code bằng Visual Studio Code
 
