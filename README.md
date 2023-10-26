@@ -94,7 +94,7 @@ File -> Open Folder. Dẫn đến vị trí folder vừa được unzip -> Chọ
 
 2. Nếu sử dụng file trọng số mới của data PlantVillage, hãy thay đổi **class_labels = ["anthracnose", "downy_mildew", "fresh_leaf", "powdery_mildew"]** thành **class_labels = ["Apple___Apple_scab", "Apple___Black_rot", "Apple___Cedar_apple_rust", "Apple___healthy", "Background_without_leaves"]**
 
-3. Các bạn có thể sử dụng data khác nhưng nhớ thay đổi **file tham số** và **class_labels** theo cấu trúc data các bạn sử dụng.
+3. Các bạn có thể sử dụng data khác để train và nhận được file tham số. Nhưng nhớ thay đổi **file tham số** và **class_labels** theo cấu trúc data các bạn sử dụng.
 
 ## Bước 4: Cài đặt các package và thư viện
 
