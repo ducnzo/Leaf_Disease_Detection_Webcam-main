@@ -8,6 +8,10 @@ from tensorflow.keras.applications.efficientnet import preprocess_input
 model = load_model('mobileNetV2_model.h5')
 class_labels = ["anthracnose", "downy_mildew", "fresh_leaf", "powdery_mildew"]
 
+# Nếu dùng data Plant Village thì download file .h5 về và dùng code dưới đây. 
+# model = load_model('MobileNetV2_PlantVillage.h5') # Chú ý đường dẫn tới file .h5 xem có đúng không nhé.
+# class_labels = ["Apple___Apple_scab", "Apple___Black_rot", "Apple___Cedar_apple_rust", "Apple___healthy", "Background_without_leaves"]
+
 # Start the webcam
 cap = cv2.VideoCapture(0)
 

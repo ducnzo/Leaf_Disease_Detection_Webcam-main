@@ -81,20 +81,22 @@ Tìm kiếm "Python". Bấm Install để cài đặt
 
 Chọn Code -> Download ZIP
 
-Sau khi download file ZIP -> tiến hành unzip
+1. Sau khi download file ZIP -> tiến hành unzip
 ![Alt text](image/image123.png)
+
+2. Download file trọng số .h5 ở **Phần 1** về và đưa vào thư mục "Leaf_Disease_Detection_Webcam-main" vừa được unzip. 
 
 ## Bước 5: Mở folder vừa được unzip bằng Visual Studio Code
 
 File -> Open Folder. Dẫn đến vị trí folder vừa được unzip -> Chọn Open
 
-*Note*: 
+> *Note*: \
+Các bạn có thể sử dụng data khác để train và nhận được file trọng số. Nhưng nhớ thay đổi đường dẫn và tên của **file trọng số .h5** và **class_labels** theo cấu trúc data các bạn sử dụng.
 
-1. Trong code có thể thay đổi file tham số ""MobileNetV2_model.h5 bằng file tham số các bạn đã train ở **Phần 1**. 
+>*Ví dụ* :
+- Nhãn: **class_labels = ["anthracnose", "downy_mildew", "fresh_leaf", "powdery_mildew"]** thành **class_labels = ["Apple___Apple_scab", "Apple___Black_rot", "Apple___Cedar_apple_rust", "Apple___healthy", "Background_without_leaves"]**
+- File trọng số: **mobileNetV2_model.h5** thành **MobileNetV2_PlantVillage.h5**
 
-2. Nếu sử dụng file trọng số mới của data PlantVillage, hãy thay đổi **class_labels = ["anthracnose", "downy_mildew", "fresh_leaf", "powdery_mildew"]** thành **class_labels = ["Apple___Apple_scab", "Apple___Black_rot", "Apple___Cedar_apple_rust", "Apple___healthy", "Background_without_leaves"]**
-
-3. Các bạn có thể sử dụng data khác để train và nhận được file tham số. Nhưng nhớ thay đổi **file tham số** và **class_labels** theo cấu trúc data các bạn sử dụng.
 
 ## Bước 4: Cài đặt các package và thư viện
 
