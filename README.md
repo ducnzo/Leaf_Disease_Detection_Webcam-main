@@ -32,7 +32,11 @@
 
 ![Alt text](image/67568568658.png)
 
-8. Chờ đợi và được kết quả là file **MobileNetV2_PlantVillage.h5** trên google drive của các bạn.
+8. Cấp phép Kết nối với Google Drive
+
+![Alt text](image/cvxc.png)
+
+9. Chờ đợi và được kết quả là file **MobileNetV2_PlantVillage.h5** trên google drive của các bạn.
 
 ![Alt text](image/gghj.png)
 
