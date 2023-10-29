@@ -6,7 +6,7 @@
 
 1. Tải data [PlantVillage](https://drive.google.com/drive/folders/14tiEkOM14af2pr3faXPbVYTaCngOmCNn?usp=sharing)
 
-2. Up file lên google drive của các bạn.  
+2. Up file (đã unzip) lên google drive của các bạn.  
 
 ## Bước 2: Dùng Google Colab để huấn luyện mô hình
 
